@@ -1,5 +1,7 @@
 # GUVI
 
-KOODALARASAN M
-19BEC114
-koodalarasan.19ec@kct.ac.in
+Name : KOODALARASAN M
+
+Roll No : 19BEC114
+
+Email Id : koodalarasan.19ec@kct.ac.in
