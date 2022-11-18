@@ -1,0 +1,55 @@
+html{
+    background-image:url(planet-163469_1280.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+form{
+    width: 250px;
+    height: 380px;
+    margin: 2rem;
+    margin-left: 27.5rem;
+    margin-top: 5rem;
+    padding: 40px;
+    padding-top: 25px;
+    background: linear-gradient(to right,#49b6d7,#78c2ea);
+    border: #aca386;
+    border-radius: 20px;
+    
+}
+.fa {
+    padding-left:3px;
+    font-size:20px;
+    color:rgb(0, 0, 0);
+}
+.login{
+    padding-left: 95px;
+    color:rgb(255, 255, 255);
+    padding-bottom: 20px;
+ }
+ div{
+    padding-left: 20px;
+}
+.fa-user{
+    padding-left: 1px;
+}
+.sign{
+    
+    background-color:royalblue;
+    margin-left: 6rem;
+    color: white;
+    border-radius: 5px;
+    border-color:royalblue;
+    font-size: 15px;
+}
+.reg{
+    text-decoration: none;
+    color:rgb(5, 64, 239);
+    padding-left: 50px;
+}
+.or{
+    padding-left: 122px;
+    color: rgb(255, 255, 255);
+}
+.fa-solid{
+    color:rgb(0, 0, 0);
+}

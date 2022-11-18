@@ -1,0 +1,48 @@
+html{
+    background-image:url(planet-163469_1280.jpg);
+   background-size: cover;
+    background-attachment: fixed;
+}
+
+form{
+    width: 250px;
+    margin: 2rem;
+    margin-left: 27.5rem;
+    margin-top: 8rem;
+    padding: 40px;
+    background: linear-gradient(to right,#49b6d7,#78c2ea);
+    border-radius: 20px;
+    
+}
+.login{
+   padding-left: 95px;
+   padding-bottom: 20px;
+   color:rgb(255, 255, 255);
+   
+}
+div{
+    padding-left: 20px;
+}
+.sign{
+    
+    background-color:royalblue;
+    margin-left: 6rem;
+    color: white;
+    border-radius: 5px;
+    border-color:royalblue;
+    font-size: medium;
+}
+.reg{
+    text-decoration: none;
+    color: blue;
+    padding-left: 67px;
+    
+}
+.or{
+    padding-left: 122px;
+    color:rgb(255, 255, 255);
+    
+}
+.fa-solid {
+  color:rgb(0, 0, 0);
+}
